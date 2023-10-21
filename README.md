@@ -22,9 +22,9 @@ Here are some ideas to get you started:
   <a href="http://twitter.com/yutkat">
     <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/eddie-eights">
+<!--   <a href="https://github.com/eddie-eights">
     <img height="20" src="https://img.shields.io/github/followers/eddie-eights?label=follow&logo=github&style=flat" />
-  </a>
+  </a> -->
 <!--   <a href="https://www.reddit.com/user/yutkat">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
   </a> -->
