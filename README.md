@@ -19,9 +19,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/eddie-eights/eddie-eights/">
     <img src="https://komarev.com/ghpvc/?username=eddie-eights" alt="eddie-eights" />
   </a>
-  <a href="http://twitter.com/yutkat">
-    <img height="20" src="" />
-  </a>
 <!--   <a href="https://github.com/eddie-eights">
     <img height="20" src="https://img.shields.io/github/followers/eddie-eights?label=follow&logo=github&style=flat" />
   </a> -->
